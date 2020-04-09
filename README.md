@@ -1,6 +1,4 @@
-# vue-source-learn-demo
-
-## Project setup
+# vue 源码调试 demo
 
 ```
 yarn install
